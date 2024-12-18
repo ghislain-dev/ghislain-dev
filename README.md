@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghislain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ghislain-dev" /> </p>
 
-<p align="left"> a href<"= srchttps://github.com/ryo-ma/github-profile-trophy"><img"= althttps://github-profile-trophy.vercel.app/?username=ghislain-dev""ghislain-dev" /=/a>< >/p<
 
-### Articles de blog
-<!- BLOG-POST-LIST:START -->
-<!- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connecter avec moi:</h3>
 <p align="gauche">
